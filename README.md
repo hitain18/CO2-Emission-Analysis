@@ -1,6 +1,3 @@
-# CO2-Emission-Analysis
-Exploratory Data Analysis of Global CO2 Emissions 
-
 # CO2 Emission Data Analysis
 
 ##  Project Overview
