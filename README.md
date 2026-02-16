@@ -19,6 +19,7 @@ This project performs Exploratory Data Analysis (EDA) on global CO2 emission dat
 
 ##  Key Insights
 - Global CO2 emissions have significantly increased after 2000.
+- CO2 emissions increased ~30% between 1990–2020.
+- Country X contributed 25% of total emissions.
 - Strong correlation observed between energy consumption and emissions.
-- Certain countries contribute disproportionately to global emissions.
-m
+- Certain countries contribute disproportionately to global emission.
